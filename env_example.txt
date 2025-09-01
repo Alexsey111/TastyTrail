@@ -1,0 +1,6 @@
+# Telegram Bot Token (получите у @BotFather)
+TELEGRAM_TOKEN=your_telegram_bot_token_here
+
+# Spoonacular API Key (опционально, для дополнительных рецептов)
+# Получите бесплатный ключ на https://spoonacular.com/food-api
+SPOONACULAR_API_KEY=your_spoonacular_api_key_here
