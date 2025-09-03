@@ -6,6 +6,7 @@ from config import TELEGRAM_TOKEN
 from database import Database
 from api_client import RecipeAPI
 from keyboards import Keyboards
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
 # Настройка логирования
 logging.basicConfig(
