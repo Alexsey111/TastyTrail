@@ -15,7 +15,7 @@ TELEGRAM_TOKEN=your_telegram_bot_token_here
 ```
 На:
 ```
-TELEGRAM_TOKEN=TELEGRAM_TOKEN_УДАЛЁН_ИЗ_ИСТОРИИ
+TELEGRAM_TOKEN=ваш_токен_от_BotFather
 ```
 
 ### 3. Запустите бота
